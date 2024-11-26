@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 28,
+      "gender": "Female",
+      "location": "New York, USA",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "age": 34,
+      "gender": "Male",
+      "location": "Los Angeles, USA",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "name": "Charlie Davis",
+      "email": "charlie.davis@example.com",
+      "age": 25,
+      "gender": "Non-binary",
+      "location": "London, UK",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Dana Lee",
+      "email": "dana.lee@example.com",
+      "age": 30,
+      "gender": "Female",
+      "location": "Sydney, Australia",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "Ethan Brown",
+      "email": "ethan.brown@example.com",
+      "age": 40,
+      "gender": "Male",
+      "location": "Toronto, Canada",
+      "isActive": false
+    }
+  ]
+}
